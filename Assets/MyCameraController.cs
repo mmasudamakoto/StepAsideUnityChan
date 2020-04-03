@@ -9,6 +9,7 @@ public class MyCameraController : MonoBehaviour
     private float difference;
 
     // Use this for initialization
+
     void Start()
     {
         //Unityちゃんのオブジェクトを取得
